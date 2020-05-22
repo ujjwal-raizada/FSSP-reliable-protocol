@@ -7,8 +7,8 @@ underlying reliable application layer protocol. An object of this class should b
 up communication with a peer. This protocol requires python3 to run and doesn’t have any other
 dependency. All standard python packages are used to build this protocol.
 
-#### Protocol Specifications: [PDF]()
-#### Performance Benchmarks: [PDF]() 
+#### Protocol Specifications: [PDF](https://github.com/ujjwal-raizada/FSSP-reliable-protocol/blob/master/FSSP_%20protocol%20specifications.pdf)
+#### Performance Benchmarks: [PDF](https://github.com/ujjwal-raizada/FSSP-reliable-protocol/blob/master/Computer%20Networks%20Performance.pdf) 
 
 the actual protocol FSSP (fssp_protocol.py) doesn't have any dependency other than python3.
 but the file transfer uses "tqdm" library to display progress bar.
